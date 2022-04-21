@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body {
   background: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Lemonada', cursive;
 }
 
 ul {
@@ -11,7 +11,7 @@ ul {
 }
 
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Lemonada', cursive;
   line-height: 0.7;
   margin: 0 auto;
   text-align: left;
@@ -50,6 +50,7 @@ h2 {
   right: 0;
   bottom: 0;
   height: 100%;
+ 
 }
 .screen header {
   position: relative;
@@ -58,6 +59,9 @@ h2 {
   transform: translatey(-50%);
 }
 .screen h1 {
+  color: #fff;
+}
+.screen p {
   color: #fff;
 }
 .screen-start {
@@ -198,4 +202,11 @@ h2 {
 .namespot {
   color: black;
   margin: 0;
+}
+
+
+.olamideo {
+  color: white;
+ 
+  
 }
